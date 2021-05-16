@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.links {
+    float: left;
+    color: cornflowerblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.links:hover {
+    background-color: darkorchid;
+}
+
+#p1 {
+    font-size: 35px;
+    font-family: monospace;
+}
+
+#p2 {
+    font-size: 35px;
+    font-family: monospace;
+}
+
+#About {
+    text-align: center;
+}
+
+#Books {
+    text-align: center;
+}
+
+#Work {
+    text-align: center;
+}
+
+#Writings {
+    text-align: center;
+}
+
+#Gallery {
+    text-align: center;
+}
+
+#reviews {
+    text-align: center;
+}
